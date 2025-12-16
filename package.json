@@ -5,5 +5,20 @@
   "dependencies": {
     "@primer/css": "17.0.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevsAurora/demo-repository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DevsAurora/demo-repository/issues"
+  },
+  "homepage": "https://github.com/DevsAurora/demo-repository#readme"
 }
